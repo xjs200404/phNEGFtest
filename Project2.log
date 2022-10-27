@@ -1,0 +1,9 @@
+﻿  constructH4_BS2.c
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(18,1): warning C4047: “初始化”:“double **”与“double *”的间接级别不同
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(57,26): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(61,32): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(72,37): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(83,37): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(94,37): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\xjs\Desktop\Project2\constructH4_BS2.c(33,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project2.vcxproj -> C:\Users\xjs\Desktop\Project2\Debug\Project2.exe
